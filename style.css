@@ -5,14 +5,15 @@
 body {
   font-family: Arial;
   padding: 10px;
-  background: #f1f1f1;
+  background: rgb(32, 32, 32);
 }
 
 /* Header/Blog Title */
 .header {
   padding: 30px;
   text-align: center;
-  background: white;
+  background: rgb(19, 19, 19);
+  color: rgb(226, 226, 226);
 }
 
 .header h1 {
@@ -46,14 +47,15 @@ body {
 .leftcolumn {
   float: left;
   width: 75%;
+  color: rgb(226, 226, 226);
 }
 
 /* Right column */
 .rightcolumn {
   float: left;
   width: 25%;
-  background-color: #f1f1f1;
   padding-left: 20px;
+  color: rgb(226, 226, 226);
 }
 
 /* Fake image */
@@ -65,7 +67,7 @@ body {
 
 /* Add a card effect for articles */
 .card {
-  background-color: white;
+  background: rgb(19, 19, 19);
   padding: 20px;
   margin-top: 20px;
 }
@@ -79,10 +81,11 @@ body {
 
 /* Footer */
 .footer {
-  padding: 20px;
+  padding: 25px;
   text-align: center;
-  background: #ddd;
-  margin-top: 20px;
+  background-color: #333;
+  margin-top: 25px;
+  color: rgb(226, 226, 226);
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
