@@ -11,9 +11,10 @@ define('NAME1', 'JOSHUA ALEXIS URAG');
 define('NAME2', 'MARK JOSHUA ARTUZA');
 ?>
 
-<div class="header">
-  <h1>WEBSTER</h1>
-  <p>Not the dictionary one, but a website that helps you make a website!</p>
+<div class="header"> 
+    <h1> WEBSTER </h1> 
+    <p>Not the dictionary one, but a website that helps you make a website!</p>
+  </div> 
 </div>
 
 <div class="topnav">
@@ -26,16 +27,16 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Date</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
+      <h2><a href = "topics.php" >  Topics</h2> </a>
+      <h5>In here are some website ideas for you</h5>
+      <img src = "ideas.jpeg" height= "400px" width = "1100px">
       <p>Some text..</p>
       <p>More texts...?</p>
     </div>
     <div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
+      <h2> <a href = "resources.php" > Resources</h2> </a>
+      <h5>In here you can find different videos from professionals to help you make your website</h5>
+      <img src = "resources.jpg" height= "400px" width = "1100px">
       <p>Some text..</p>
       <p>More texts...</p>
     </div>

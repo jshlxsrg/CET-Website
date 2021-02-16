@@ -29,7 +29,7 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
         <h2>Joshua Alexis Urag</h2>
         <img src = "cores.jpg" height="500px">
         <p>A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering.</p>
-        <p>More texts...?</p>
+        <p>Pagod na sa buhay dahil nakakapunyeta lang </p>
       </div>
       <div class="card">
         <h2>Mark Joshua Artuza</h2>
