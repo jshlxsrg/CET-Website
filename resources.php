@@ -24,10 +24,30 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
 
 <div class="row">
     <div class="header">
-        <h2>Resources</h2> 
+        <h2>Resources</h2>    
+    </div>
+  <div class = "leftcolumn">
+   <p> Here are some basic HTML videos to get you started on that website! <p>
+    <div class="card">
+      <iframe width="420" height="315"
+         src="https://www.youtube.com/embed/tgbNymZ7vqY">
+      </iframe>
+      <iframe width="420" height="315"
+         src="https://www.youtube.com/embed/-USAeFpVf_A">
+      </iframe>
+    </div>
+    <div class = "card">
+      <p> W3schools also has a complete tutorial on HTML. Click on the link below to check them out.</p>
+      <a href="https://www.w3schools.com/html/"> W3schools Tutorial</a>
+      <img src = "static/w3schools.PNG" height= "400px" width = "1100px" >
     </div>
 
+  </div>
+   
+
+
 </div>
+
 <div class="footer">
 <?php echo '&copy; ', date('Y'), ' ', NAME1 ,' and ', NAME2, ' :: Rundate ', date('m/d/Y'); ?>
 </div>
