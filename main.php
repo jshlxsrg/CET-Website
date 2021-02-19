@@ -57,6 +57,7 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
     <div class="card">
       <h3>Follow us</h3>
       <p>DOTA2 ID: 453608560</p>
+      <p>Genshin Impact UID: 817160914<p>
     </div>
   </div>
 </div>
