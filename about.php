@@ -35,7 +35,7 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
         <h2>Mark Joshua Artuza</h2>
         <img src = "moshi.jpg" height="500px">
         <p>A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering.</p>
-        <p>More texts...</p>
+        <p>soon to be drug lord xd</p>
       </div>
 </div>
 <div class="footer">
