@@ -30,15 +30,15 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
       <h2><a href = "topics.php" >  Topics</h2> </a>
       <h5>In here are some website ideas for you</h5>
       <img src = "ideas.jpeg" height= "400px" width = "1100px">
-      <p>Some text..</p>
-      <p>More texts...?</p>
+      <p>Creating text in your website</p>
+      <p>Inserting shapes, pictures, and textbox</p>
     </div>
     <div class="card">
       <h2> <a href = "resources.php" > Resources</h2> </a>
       <h5>In here you can find different videos from professionals to help you make your website</h5>
       <img src = "resources.jpg" height= "400px" width = "1100px">
-      <p>Some text..</p>
-      <p>More texts...</p>
+      <p>Check out these Youtubers!</p>
+      <p>Tapos dito links ng yt nila pwede rin mga website na may guide din</p>
     </div>
   </div>
   <div class="rightcolumn">
