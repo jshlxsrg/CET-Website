@@ -29,14 +29,14 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
     <div class="card">
       <h2><a href = "topics.php" >  Topics</h2> </a>
       <h5>In here are some website ideas for you</h5>
-      <img src = "ideas.jpeg" height= "400px" width = "1100px">
+      <img src = "static/ideas.jpeg" height= "400px" width = "1100px">
       <p>Creating text in your website</p>
       <p>Inserting shapes, pictures, and textbox</p>
     </div>
     <div class="card">
       <h2> <a href = "resources.php" > Resources</h2> </a>
       <h5>In here you can find different videos from professionals to help you make your website</h5>
-      <img src = "resources.jpg" height= "400px" width = "1100px">
+      <img src = "static/resources.jpg" height= "400px" width = "1100px">
       <p>Check out these Youtubers!</p>
       <p>Tapos dito links ng yt nila pwede rin mga website na may guide din</p>
     </div>
@@ -44,8 +44,8 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
   <div class="rightcolumn">
     <div class="card">
       <h2>About the Devs</h2>
-      <img src="cores.jpg" height="90px">
-      <img src="moshi.jpg" height="90px">
+      <img src="static/cores.jpg" height="90px">
+      <img src="static/moshi.jpg" height="90px">
       <p>Lx and Moshi</p>
     </div>
     <div class="card">

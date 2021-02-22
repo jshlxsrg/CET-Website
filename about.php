@@ -27,13 +27,13 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
     <div class="leftcolumn" style="width: 1500px;">
       <div class="card">
         <h2>Joshua Alexis Urag</h2>
-        <img src = "cores.jpg" height="500px">
+        <img src = "static/cores.jpg" height="500px">
         <p>A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering.</p>
         <p>Pagod na sa buhay dahil nakakapunyeta lang </p>
       </div>
       <div class="card">
         <h2>Mark Joshua Artuza</h2>
-        <img src = "moshi.jpg" height="500px">
+        <img src = "static/moshi.jpg" height="500px">
         <p>A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering.</p>
         <p>soon to be drug lord xd</p>
       </div>
