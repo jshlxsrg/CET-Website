@@ -4,7 +4,7 @@
 
 body {
   padding: 10px;
-  background: rgb(32, 32, 32);
+  background: rgb(12, 110, 158);
 }
 
 /* Header/Blog Title */
@@ -23,7 +23,7 @@ body {
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: rgb(18, 54, 109);
+  background-color: rgb(98, 132, 148);
 }
 
 /* Style the topnav links */
@@ -68,7 +68,9 @@ body {
 
 /* Add a card effect for articles */
 .card {
-  background: rgb(19, 19, 19);
+  background-image: url(static/PD1.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
   padding: 20px;
   margin-top: 20px;
 }
