@@ -15,7 +15,7 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
   <p>Not the dictionary one, but a website that helps you make a website!</p>
 </div>
 <div class="topnav">
-  <a href="main.php">Home</a>
+  <a href="index.php">Home</a>
   <a href="topics.php">Topics</a>
   <a href="resources.php">Resources</a>
   <a href="about.php" style="float:right">About</a>
@@ -38,6 +38,7 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
         <p>soon to be drug lord xd</p>
       </div>
 </div>
+
 <div class="footer">
 <?php echo '&copy; ', date('Y'), ' ', NAME1 ,' and ', NAME2, ' :: Rundate ', date('m/d/Y'); ?>
 </div>

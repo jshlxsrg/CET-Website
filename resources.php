@@ -16,14 +16,14 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
 </div>
 
 <div class="topnav">
-  <a href="main.php">Home</a>
+  <a href="index.php">Home</a>
   <a href="topics.php">Topics</a>
   <a href="resources.php">Resources</a>
   <a href="about.php" style="float:right">About</a>
 </div>
 
 <div class="row">
-    <div class="header">
+    <div class="fakeimg">
         <h2>Resources</h2>    
     </div>
   <div class = "leftcolumn">
@@ -37,8 +37,8 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
       </iframe>
     </div>
     <div class = "card">
-      <p> W3schools also has a complete tutorial on HTML. Click on the link below to check them out.</p>
-      <a href="https://www.w3schools.com/html/"> W3schools Tutorial</a>
+      <p> w3schools also has a complete tutorial on HTML. Click on the link below to check them out.</p>
+      <a href="https://www.w3schools.com/html/"> w3schools Tutorial</a>
       <img src = "static/w3schools.PNG" height= "400px" width = "1100px" >
     </div>
 

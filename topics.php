@@ -16,14 +16,14 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
 </div>
 
 <div class="topnav">
-  <a href="main.php">Home</a>
+  <a href="index.php">Home</a>
   <a href="topics.php">Topics</a>
   <a href="resources.php">Resources</a>
   <a href="about.php" style="float:right">About</a>
 </div>
 
 <div class="row">
-    <div class="header">
+    <div class="fakeimg">
         <h2>Topics</h2> 
     </div>
 </div>
