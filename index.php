@@ -18,6 +18,8 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
   </div> 
 </div>
 
+
+
 <div class="topnav">
   <a href="index.php">Home</a>
   <a href="topics.php">Topics</a>
@@ -44,15 +46,13 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
   </div>
   <div class="rightcolumn">
     <div class="card">
-      <h2>About the Devs</h2>
-      <img src="static/cores.jpg" height="90px">
-      <img src="static/moshi.jpg" height="90px">
-      <p>Lx and Moshi</p>
+      <h3>About the Devs</h3>
+      <img src="static/cores.jpg" height="81px">
+      <img src="static/moshi.jpg" height="81px">
+      <h4>Lx and Moshi</h4>
     </div>
     <div class="card">
       <h3>Popular Post</h3>
-      <div class="fakeimg"><p>Image</p></div>
-      <div class="fakeimg"><p>Image</p></div>
       <div class="fakeimg"><p>Image</p></div>
     </div>
     <div class="card">

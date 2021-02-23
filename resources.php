@@ -27,8 +27,8 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
         <h2>Resources</h2>    
     </div>
   <div class = "leftcolumn">
-   <p> Here are some basic HTML videos to get you started on that website! <p>
     <div class="card">
+   <p> Here are some basic HTML videos to get you started on that website! <p>
       <iframe width="420" height="315"
          src="https://www.youtube.com/embed/tgbNymZ7vqY">
       </iframe>
