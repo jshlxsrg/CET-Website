@@ -4,17 +4,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="style.css">
+  <link rel="shortcut icon" type="image/jpg" href="/w.jpg"/>
 </head>
 <body>
 <?php
 define('NAME1', 'JOSHUA ALEXIS URAG');
 define('NAME2', 'MARK JOSHUA ARTUZA');
 ?>
-
+<title><?php echo "WEBSTER"; ?> </title> <link rel="icon" href="/static/w.jpg/favicon.jpg">
 
 <div class="header"> 
     <h1> WEBSTER </h1> 
     <p>Not the dictionary one, but a website that helps you make a website!</p>
+    
   </div> 
 </div>
 

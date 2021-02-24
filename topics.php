@@ -10,6 +10,8 @@
 define('NAME1', 'JOSHUA ALEXIS URAG');
 define('NAME2', 'MARK JOSHUA ARTUZA');
 ?>
+<title><?php echo "WEBSTER"; ?> </title>
+
 <div class="header">
   <h1>WEBSTER</h1>
   <p>Not the dictionary one, but a website that helps you make a website!</p>
@@ -55,3 +57,5 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
 <?php echo '&copy; ', date('Y'), ' ', NAME1 ,' and ', NAME2, ' :: Rundate ', date('m/d/Y'); ?>
 </div>
 
+</body>
+</html>
