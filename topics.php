@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="style.css">
+  <link rel="shortcut icon" type="image/png" href="static/w.png"/>
 </head>
 <body>
 <?php
@@ -13,15 +14,15 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
 <title><?php echo "WEBSTER"; ?> </title>
 
 <div class="header">
-  <h1>WEBSTER</h1>
+  <img src = "static/w.png" height = "40px" width = "45px"><h1>WEBSTER</h1>
   <p>Not the dictionary one, but a website that helps you make a website!</p>
 </div>
 
 <div class="topnav">
-  <a href="index.php">Home</a>
-  <a href="topics.php">Topics</a>
-  <a href="resources.php">Resources</a>
-  <a href="about.php" style="float:right">About</a>
+  <a href="index.php"><b>Home</b></a>
+  <a href="topics.php"><b>Topics</b></a>
+  <a href="resources.php"><b>Resources</b></a>
+  <a href="about.php" style="float:right"><b>About<b></a>
 </div>
 
 <div class="row">
