@@ -57,6 +57,8 @@ define('NAME2', 'MARK JOSHUA ARTUZA');
     </div>
     <div class="card">
       <h3>Follow us</h3>
+      <h5>Facebook: </h5> <a href="https://www.facebook.com/mooossshhhiii0811"><h5>Mark Joshua Artuza</h5></a>
+      <a href="https://www.facebook.com/jshlxsrg/"><h5>Joshua Alexis Urag</h5></a>
       <p>DOTA2 ID: 453608560</p>
       <p>Genshin Impact UID: 817160914<p>
     </div>
