@@ -40,14 +40,14 @@ define('TITLE2', 'HUB');
     <div class="card">
       <h2><a href="topics.php">Topics</h2></a>
       <h5>In here are some website ideas for you</h5>
-      <img src = "static/ideas.jpeg" height= "400px" width = "1100px">
+      <img src = "static/ideas.jpeg" height= "400px" width = "100%" margin = "auto">
       <p>Creating text in your website</p>
       <p>Inserting shapes, pictures, and textbox</p>
     </div>
     <div class="card">
       <h2> <a href = "resources.php" > Resources</h2> </a>
       <h5>In here you can find different videos from professionals to help you make your website</h5>
-      <img src = "static/resources.jpg" height= "300px" width = "1000px">
+      <img src = "static/resources.jpg" height= "300px" width = "100%" margin = "auto">
       <p>Check out these Youtubers!</p>
       <p>Tapos dito links ng yt nila pwede rin mga website na may guide din</p>
     </div>

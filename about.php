@@ -38,14 +38,14 @@ define('TITLE2', 'HUB');
             <a href="https://www.facebook.com/jshlxsrg/"><h2>Joshua Alexis Urag</h2></a>
             <h5 style = "float:right">A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering. 
           Pagod na sa buhay dahil nakakapunyeta lang hehe</h5>
-            <img src = "static/cores.jpg" height="500px">            
+            <img src = "static/cores.jpg" height="500px" width = "100%" margin = "auto">            
           </div>
 
           <div class="card">
             <a href="https://www.facebook.com/mooossshhhiii0811"><h2>Mark Joshua Artuza</h2></a>
             <h5 style = "float:right">A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering. 
           Soon to be drug lord xDDDDDDDDDDDDDDDDDD</h5>
-            <img src = "static/moshi.jpg" height="500px">
+            <img src = "static/moshi.jpg" height="500px" width = "100%" margin = "auto">
           </div>
       </div>
   </div>

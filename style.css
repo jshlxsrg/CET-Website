@@ -14,6 +14,8 @@ body {
   background-image: url(static/PD5.png);
   background-repeat: no-repeat;
   background-size: 100%;
+  width: "100%";
+  margin: "auto";
 }
 
 a:link {
@@ -124,7 +126,9 @@ a:hover {
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 800px) {
   .leftcolumn,
-  .bleftcolumn .header,
+  .fakeimg,
+  .bleftcolumn,
+  .header,
   .rightcolumn {
     width: 100%;
     padding: 0;

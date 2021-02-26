@@ -38,13 +38,13 @@ define('TITLE2', 'HUB');
     <div class="card">
       <div class = "fakeimg">
         <p> Here are some basic HTML videos to get you started on that website! <p>
-          <iframe width="420" height="315"
+          <iframe width = "100%" margin = "auto" height="315"
             src="https://www.youtube.com/embed/tgbNymZ7vqY">
           </iframe>
-          <iframe width="420" height="315"
+          <iframe width = "100%" margin = "auto"height="315"
             src="https://www.youtube.com/embed/-USAeFpVf_A">
           </iframe>
-          <iframe width="420" height="315"
+          <iframe width = "100%" margin = "auto" height="315"
             src="https://www.youtube.com/embed/El1BhIQFMfs">
           </iframe>
       </div>
@@ -52,7 +52,7 @@ define('TITLE2', 'HUB');
       <div class = "fakeimg">
         <h3><a href="https://www.w3schools.com/html/"> w3schools Tutorial</h3></a>
         <p> w3schools also has a complete tutorial on HTML. Click on the link below to check them out.</p>
-        <img src = "static/w3schools.PNG" height= "400px" width = "1400px" >
+        <img src = "static/w3schools.PNG" height= "400px" width = "100%" margin = "auto" >
       </div>
     </div>
   </div>
