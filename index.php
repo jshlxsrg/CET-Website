@@ -7,21 +7,8 @@
   <link rel="shortcut icon" type="image/png" href="static/w.png"/>
 </head>
 <body>
-<?php
-define('NAME1', 'JOSHUA ALEXIS URAG');
-define('NAME2', 'MARK JOSHUA ARTUZA');
-define('TITLE1', 'WEB');
-define('TITLE2', 'HUB');
 
-?>
-<title><?php echo TITLE1.TITLE2; ?> </title> <link rel="icon" href="/static/w.jpg/favicon.jpg">
-
-<div class="header"> 
-    <img src = "static/w.png" height = "40px" width = "45px"><h1> <?php echo TITLE1.'<span style = "color: #f78c00;">HUB</span>' ?> </h1> 
-    <p>Not the dictionary one, but a website that helps you make a website!</p>
-    
-  </div> 
-</div>
+<?php include 'header.php';?>
 
 
 

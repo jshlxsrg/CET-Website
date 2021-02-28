@@ -7,21 +7,8 @@
   <link rel="shortcut icon" type="image/png" href="static/w.png"/>
 </head>
 <body>
-<?php
-define('NAME1', 'JOSHUA ALEXIS URAG');
-define('NAME2', 'MARK JOSHUA ARTUZA');
-define('TITLE1', 'WEB');
-define('TITLE2', 'HUB');
 
-?>
-<title><?php echo TITLE1.TITLE2; ?> </title> <link rel="icon" href="/static/w.jpg/favicon.jpg">
-
-<div class="header"> 
-    <img src = "static/w.png" height = "40px" width = "45px"><h1> <?php echo TITLE1.'<span style = "color: #f78c00;">HUB</span>' ?> </h1> 
-    <p>Not the dictionary one, but a website that helps you make a website!</p>
-    
-  </div> 
-</div>
+<?php include 'header.php';?>
 
 <div class="topnav">
   <a href="index.php"><b>Home</b></a>
@@ -35,30 +22,55 @@ define('TITLE2', 'HUB');
         <h2>Resources</h2>    
     </div>
   <div class = "bleftcolumn">
+    <div class = "card">
+      <div class = "fakeimg">
+        <p> For Hard Coding you need to learn HTML and CSS</p>
+        <p> w3schools also has a complete tutorial on HTML and CSS. Click on the link below to check them out.</p>
+        <h3><a href="https://www.w3schools.com/html/" style = "color: black"> w3schools HTML Tutorial</h3></a>
+        <h3><a href="https://www.w3schools.com/css/" style = "color: black"> w3schools CSS Tutorial</h3></a>
+        <img src = "static/w3schools.PNG" height= "400px" width = "100%" margin = "auto" >
+        <img src = "static/CSS.PNG" height= "400px" width = "100%" margin = "auto" >
+      </div>
+    </div>
+    <div class = "card">
+      <div class = "fakeimg">
+        <p> If you don't have time to learn a programmming. There are websites that teach you how</p>
+        <p> Website Setup has an easy step-by-step guide for beginners. Click on the link below to check them out.</p>
+        <h3><a href="https://websitesetup.org" style = "color: black"> Website Setup</h3></a>
+        <img src = "static/website-setup.PNG" height= "400px" width = "100%" margin = "auto" >
+      </div>
+    </div>
     <div class="card">
       <div class = "fakeimg">
         <p> Here are some basic HTML videos to get you started on that website! <p>
-          <iframe width = "100%" margin = "auto" height="315"
-            src="https://www.youtube.com/embed/tgbNymZ7vqY">
-          </iframe>
-          <iframe width = "100%" margin = "auto"height="315"
+          <iframe width = "auto" margin = "auto"height="315"
             src="https://www.youtube.com/embed/-USAeFpVf_A">
           </iframe>
-          <iframe width = "100%" margin = "auto" height="315"
+          <iframe width = "auto" margin = "auto" height="315"
+            src="https://www.youtube.com/embed/pQN-pnXPaVg">
+          </iframe>
+          <iframe width = "auto" margin = "auto" height="315"
+            src="https://www.youtube.com/embed/3Wd2uEsbc_c">
+          </iframe>
+          <iframe width = "auto" margin = "auto" height="315"
+            src="https://www.youtube.com/embed/zmun7JzWGPE">
+          </iframe>
+          <iframe width = "auto" margin = "auto" height="315"
+            src="https://www.youtube.com/embed/tgbNymZ7vqY">
+          </iframe>
+          <iframe width = "auto" margin = "auto" height="315"
+            src="https://www.youtube.com/embed/PlxWf493en4">
+          </iframe>
+          <iframe width = "auto" margin = "auto" height="315"
             src="https://www.youtube.com/embed/El1BhIQFMfs">
           </iframe>
+          <iframe width = "auto" margin = "auto" height="315"
+            src="https://www.youtube.com/embed/kMT54MPz9oE">
+          </iframe>
       </div>
-    <div class = "card">
-      <div class = "fakeimg">
-        <h3><a href="https://www.w3schools.com/html/"> w3schools Tutorial</h3></a>
-        <p> w3schools also has a complete tutorial on HTML. Click on the link below to check them out.</p>
-        <img src = "static/w3schools.PNG" height= "400px" width = "100%" margin = "auto" >
-      </div>
-    </div>
   </div>
 </div>
    
-
 
 </div>
 

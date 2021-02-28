@@ -7,21 +7,9 @@
   <link rel="shortcut icon" type="image/png" href="static/w.png"/>
 </head>
 <body>
-<?php
-define('NAME1', 'JOSHUA ALEXIS URAG');
-define('NAME2', 'MARK JOSHUA ARTUZA');
-define('TITLE1', 'WEB');
-define('TITLE2', 'HUB');
 
-?>
-<title><?php echo TITLE1.TITLE2; ?> </title> <link rel="icon" href="/static/w.jpg/favicon.jpg">
+<?php include 'header.php';?>
 
-<div class="header"> 
-    <img src = "static/w.png" height = "40px" width = "45px"><h1> <?php echo TITLE1.'<span style = "color: #f78c00;">HUB</span>' ?> </h1> 
-    <p>Not the dictionary one, but a website that helps you make a website!</p>
-    
-  </div> 
-</div>
 <div class="topnav">
   <a href="index.php"><b>Home</b></a>
   <a href="topics.php"><b>Topics</b></a>
@@ -35,17 +23,17 @@ define('TITLE2', 'HUB');
       </div>
       <div class="bleftcolumn" >
           <div class="card">
-            <a href="https://www.facebook.com/jshlxsrg/"><h2>Joshua Alexis Urag</h2></a>
+            <h2><a href="https://www.facebook.com/jshlxsrg/">Joshua Alexis Urag</h2></a>
             <h5 style = "float:right">A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering. 
           Pagod na sa buhay dahil nakakapunyeta lang hehe</h5>
-            <img src = "static/cores.jpg" height="500px" width = "100%" margin = "auto">            
+            <img src = "static/cores.jpg" height="500px" width = "auto" margin = "auto">            
           </div>
 
           <div class="card">
-            <a href="https://www.facebook.com/mooossshhhiii0811"><h2>Mark Joshua Artuza</h2></a>
+            <h2><a href="https://www.facebook.com/mooossshhhiii0811">Mark Joshua Artuza</h2></a>
             <h5 style = "float:right">A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering. 
           Soon to be drug lord xDDDDDDDDDDDDDDDDDD</h5>
-            <img src = "static/moshi.jpg" height="500px" width = "100%" margin = "auto">
+            <img src = "static/moshi.jpg" height="500px" width = "auto" margin = "auto">
           </div>
       </div>
   </div>
@@ -57,3 +45,4 @@ define('TITLE2', 'HUB');
 </div>
 </body>
 </html>
+https://www.facebook.com/mooossshhhiii0811
