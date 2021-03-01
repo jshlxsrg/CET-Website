@@ -18,7 +18,7 @@ define('TITLE2', 'HUB');
 
 <div class="header"> 
     <img src = "static/w.png" height = "40px" width = "45px"><h1> <?php echo TITLE1.'<span style = "color: #f78c00;">HUB</span>' ?> </h1> 
-    <p>Not the dictionary one, but a website that helps you make a website!</p>
+    <p>I know what you're thinking. It's a website that helps you make a website!</p>
     
   </div> 
 </div>

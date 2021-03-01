@@ -23,21 +23,43 @@
       </div>
       <div class="bleftcolumn" >
           <div class="card">
-            <h2><a href="https://www.facebook.com/jshlxsrg/">Joshua Alexis Urag</h2></a>
-            <h5 style = "float:right">A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering. 
-          Pagod na sa buhay dahil nakakapunyeta lang hehe</h5>
-            <img src = "static/cores.jpg" height="500px" width = "auto" margin = "auto">            
-          </div>
+            <h2>Joshua Alexis Urag</h2>
+            <h4>|| <a href="https://www.facebook.com/jshlxsrg/">Facebook</a> || 
+            <a href="https://www.github.com/jshlxsrg/">Github</a> ||<a href = "https://steamcommunity.com/id/twicelx"> Steam </a> ||</h4>
+            <pre style = "float:right" font-size= 15px><span class="inner-pre" style="font-size: 16px">Head Developer
 
-          <div class="card">
-            <h2><a href="https://www.facebook.com/mooossshhhiii0811">Mark Joshua Artuza</h2></a>
-            <h5 style = "float:right">A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering. 
-          Soon to be drug lord xDDDDDDDDDDDDDDDDDD</h5>
-            <img src = "static/moshi.jpg" height="500px" width = "auto" margin = "auto">
+Age: 21
+
+A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering. 
+
+Professional Feeder at DOTA 2
+
+
+
+</span></pre>
+            <img src = "static/cores.jpg" height="300px" width = "auto" margin = "auto">            
           </div>
+          <div class="card">
+          <h2>Mark Joshua Artuza</h2>
+            <h4>|| <a href="https://www.facebook.com/mooossshhhiii0811">Facebook</a> || </h4>
+            <pre style = "float:right" font-size= 15px><span class="inner-pre" style="font-size: 16px">Head of Content
+
+Creative Designer
+
+Age: 21
+
+A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering. 
+
+Manga Weeb
+
+
+</span></pre>
+            <img src = "static/moshi.jpg" height="300px" width = "auto" margin = "auto">            
+          </div>
+          
       </div>
   </div>
-
+  
 
 
 <div class="footer">
@@ -45,4 +67,3 @@
 </div>
 </body>
 </html>
-https://www.facebook.com/mooossshhhiii0811

@@ -27,8 +27,8 @@
         <p> For Hard Coding you need to learn HTML and CSS</p>
         <p> w3schools also has a complete tutorial on HTML and CSS. Click on the link below to check them out.</p>
         <h3><a href="https://www.w3schools.com/html/" style = "color: black"> w3schools HTML Tutorial</h3></a>
-        <h3><a href="https://www.w3schools.com/css/" style = "color: black"> w3schools CSS Tutorial</h3></a>
         <img src = "static/w3schools.PNG" height= "400px" width = "100%" margin = "auto" >
+        <h3><a href="https://www.w3schools.com/css/" style = "color: black"> w3schools CSS Tutorial</h3></a>
         <img src = "static/CSS.PNG" height= "400px" width = "100%" margin = "auto" >
       </div>
     </div>

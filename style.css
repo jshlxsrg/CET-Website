@@ -79,9 +79,6 @@ a:hover {
   height: max-content;
   color: rgb(226, 226, 226);
 }
-#content img {
-  float: left;
-}
 
 /* Fake image */
 .fakeimg {

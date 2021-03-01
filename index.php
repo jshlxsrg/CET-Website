@@ -26,29 +26,22 @@
   <div class="leftcolumn">
     <div class="card">
       <h2><a href="topics.php">Topics</h2></a>
-      <h5>In here are some website ideas for you</h5>
+      <h4>In here are some website ideas for you to help get you started on your website.</h4>
       <img src = "static/ideas.jpeg" height= "400px" width = "100%" margin = "auto">
-      <p>Creating text in your website</p>
-      <p>Inserting shapes, pictures, and textbox</p>
+
     </div>
     <div class="card">
       <h2> <a href = "resources.php" > Resources</h2> </a>
-      <h5>In here you can find different videos from professionals to help you make your website</h5>
+      <h4>In here you can find different videos and tutorials from professionals to help you develop your website</h4>
       <img src = "static/resources.jpg" height= "300px" width = "100%" margin = "auto">
-      <p>Check out these Youtubers!</p>
-      <p>Tapos dito links ng yt nila pwede rin mga website na may guide din</p>
     </div>
   </div>
   <div class="rightcolumn">
     <div class="card">
-      <h3>About the Devs</h3>
+      <h3><a href = "about.php">About the Devs</a></h3>
       <img src="static/cores.jpg" height="81px">
       <img src="static/moshi.jpg" height="81px">
       <h4>Lx and Moshi</h4>
-    </div>
-    <div class="card">
-      <h3>Popular Post</h3>
-      <div class="fakeimg"><p>Image</p></div>
     </div>
     <div class="card">
       <h3>Follow us</h3>
@@ -69,3 +62,6 @@
 
 </body>
 </html>
+
+
+
