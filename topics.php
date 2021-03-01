@@ -60,7 +60,7 @@
             </ol> 
               <h2><a href="http://www.markammay.com/100-creative-ideas-for-a-website/" style = "color: black">Mark Ammay</h2></a>
               <h3><b>Check out Mark Ammay's Website for more!</b></h3>
-              <img src = "static/mark-ammay.png" height = "600px" width = "100%" margin = "auto">
+              <img src = "static/mark-ammay.PNG" height = "600px" width = "100%" margin = "auto">
           </div>
         </div>
     </div>
