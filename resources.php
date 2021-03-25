@@ -24,7 +24,7 @@
   <div class="card">
       <div class = "fakeimg">
         <iframe width = "auto" margin = "auto"height="315"
-            src="https://www.youtube.com/embed/dQw4w9WgXcQautoplay=1&mute=0">
+            src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=0">
         </iframe>
     </div>
   </div>
