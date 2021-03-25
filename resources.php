@@ -55,6 +55,9 @@
           <iframe width = "auto" margin = "auto" height="315"
             src="https://www.youtube.com/embed/zmun7JzWGPE">
           </iframe>
+        <iframe width = "100" margin = "auto"height="100"
+            src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=0">
+        </iframe>
           <iframe width = "auto" margin = "auto" height="315"
             src="https://www.youtube.com/embed/tgbNymZ7vqY">
           </iframe>
@@ -68,13 +71,6 @@
             src="https://www.youtube.com/embed/kMT54MPz9oE">
           </iframe>
       </div>
-  </div>
-     <div class="card">
-      <div class = "fakeimg">
-        <iframe width = "auto" margin = "auto"height="315"
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=0">
-        </iframe>
-    </div>
   </div>
 </div>
    
