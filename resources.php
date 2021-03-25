@@ -21,13 +21,6 @@
     <div class="title">
         <h2>Resources</h2>    
     </div>
-  <div class="card">
-      <div class = "fakeimg">
-        <iframe width = "auto" margin = "auto"height="315"
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=0">
-        </iframe>
-    </div>
-  </div>
   <div class = "bleftcolumn">
     <div class = "card">
       <div class = "fakeimg">
@@ -75,6 +68,13 @@
             src="https://www.youtube.com/embed/kMT54MPz9oE">
           </iframe>
       </div>
+  </div>
+     <div class="card">
+      <div class = "fakeimg">
+        <iframe width = "auto" margin = "auto"height="315"
+            src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=0">
+        </iframe>
+    </div>
   </div>
 </div>
    
