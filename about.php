@@ -28,11 +28,12 @@
             <a href="https://www.github.com/jshlxsrg/">Github</a> ||<a href = "https://steamcommunity.com/id/twicelx"> Steam </a> ||</h4>
             <pre style = "float:right" font-size= 15px><span class="inner-pre" style="font-size: 16px">Head Developer
 
-Age: 21
+Age: 22
 
 A third year college student in Polytechnic University of the Philippines currently studying Bachelor of Science in Computer Engineering. 
 
 Professional Feeder at DOTA 2
+Botfrag at Valorant
 
 
 
